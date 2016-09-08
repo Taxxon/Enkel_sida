@@ -1,0 +1,24 @@
+body {
+	background-color: lightpink;
+}
+
+.paragraf1 {
+	background-color: black;
+	color: red;
+}
+
+.paragraf2 {
+	background-color: red;
+	color: black;
+}
+
+.paragraf3 {
+	background-color: lightgreen;
+	color: yellow;
+}
+
+.snyggsomfan {
+	width: 450px;
+	margin: auto;
+	margin-top: 50px;
+}
